@@ -1,2 +1,0 @@
-# shree
-Repository 
